@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Malik</h1>
-<h3 align="center">Software Engineer as a full stack webdeveloper</h3>
+<h3 align="center">Software Engineer as a full stack webdeveloper to resolve real life problems</h3>
 <img  align="right" width="400" alt="Coding is Love" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmalikshakir2001&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmalikshakir2001" /> </p>
