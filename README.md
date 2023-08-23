@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/abdulmalikasmai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulmalikasmai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdul-malik-a22368242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul malik" height="30" width="40" /></a>
-<a href="https://fb.com/abdul malik shakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul malik shakir" height="30" width="40" /></a>
+<a href="https://fb.com/100014689061497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul malik shakir" height="30" width="40" /></a>
 <a href="https://instagram.com/abdulmalikshakir2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulmalikshakir2001" height="30" width="40" /></a>
 </p>
 
