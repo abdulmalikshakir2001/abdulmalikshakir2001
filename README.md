@@ -1,3 +1,4 @@
+![logo](https://github.com/abdulmalikshakir2001/abdulmalikshakir2001/blob/main/github_background.png)
 <h1 align="center">Hi 👋, I'm Abdul Malik</h1>
 
 <h3 align="center">Software Engineer as a full stack webdeveloper to resolve real life problems</h3>
