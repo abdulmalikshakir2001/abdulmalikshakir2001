@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="207" width="100" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/303007199/original/0a5740093d5c9916cf0abd7624db31e46b20b5fc/be-your-expert-mern-stack-react-js-node-js-express-js-and-mongodb-developer.png"  />
+  <img height="207" style="width:100%;" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/303007199/original/0a5740093d5c9916cf0abd7624db31e46b20b5fc/be-your-expert-mern-stack-react-js-node-js-express-js-and-mongodb-developer.png"  />
 </div>
 
 ###
