@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="207"  src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/303007199/original/0a5740093d5c9916cf0abd7624db31e46b20b5fc/be-your-expert-mern-stack-react-js-node-js-express-js-and-mongodb-developer.png"  />
+  <img height="207" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/303007199/original/0a5740093d5c9916cf0abd7624db31e46b20b5fc/be-your-expert-mern-stack-react-js-node-js-express-js-and-mongodb-developer.png"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm  Abdul malik  from  peshwar, KPK ,Pakistan.<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 Having skills in  Nodejs,Express,Reactjs,Mongodb,Nextjs,Javascript,Typescript,html,css,saas(css pre compiler) ,tailwindcss,bootsrap,mysql,git & github.</p>
+<p align="left">I'm  Abdul malik  from  peshawar, KPK ,Pakistan.<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 Having skills in  Nodejs,Express,Reactjs,Mongodb,Nextjs,Javascript,Typescript,html,css,saas(css pre compiler) ,tailwindcss,bootsrap,mysql,git & github.</p>
 
 ###
 
@@ -72,9 +72,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
