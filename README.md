@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm  Abdul malik  from  peshawar, KPK ,Pakistan.<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 Having skills in  Nodejs,Express,Reactjs,Mongodb,Nextjs,Javascript,Typescript,html,css,saas(css pre compiler) ,tailwindcss,bootsrap,mysql,git & github.</p>
+<p align="left">I'm  Abdul malik  from  peshawar, KPK ,Pakistan.<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 Having skills in  Nodejs,Express,Reactjs,Mongodb,Nextjs,AWS,Docker,Javascript,Typescript,html,css,redis,graphql,saas(css pre compiler) ,tailwindcss,bootsrap,mysql,git & github.</p>
 
 ###
 
